@@ -1,5 +1,4 @@
-# web_dss_wisata
-Web Sistem Pendukung Keputusan Rekomendasi Objek Wisata Di Pulau Lombok
+# Web Sistem Pendukung Keputusan Rekomendasi Objek Wisata Di Pulau Lombok
 ![image](https://user-images.githubusercontent.com/95263663/209799033-2f883a17-9e3f-4303-bab9-47481725cdd3.png)
 
 Hasil Rekomendasi dengan menggunakan Metode SAW
